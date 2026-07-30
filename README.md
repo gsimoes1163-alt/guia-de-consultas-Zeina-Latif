@@ -89,7 +89,11 @@ Observação Importante: As fontes enfatizam que instrumentos financeiros podem 
 - Custo-Benefício em Políticas Públicas: Princípio que defende que cada gasto governamental deve ser avaliado pelo seu retorno social e eficiência, prática ainda pouco comum no Brasil.
 
 3. Prompts Reutilizáveis para Revisão
+   
 "Explique como a deterioração do cenário fiscal no Brasil impacta a rentabilidade de títulos de renda fixa prefixados e indexados ao IPCA."
+
 "Compare os riscos e benefícios do financiamento oficial (Plano Safra) versus instrumentos de mercado (LCA e CRA) para o produtor rural brasileiro."
+
 "Resuma a análise de Zeina Latif sobre os desafios da governança pública brasileira e sua relação com o gigantismo dos gastos."
+
 "Quais são as principais projeções de inflação e juros para 2026 segundo os relatórios da XP Investimentos e quais fatores podem alterá-las?"
