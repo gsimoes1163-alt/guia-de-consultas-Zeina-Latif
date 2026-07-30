@@ -73,3 +73,23 @@ Retorno: Geração de renda recorrente através de dividendos (aluguéis) e valo
 Riscos: Alta sensibilidade à taxa Selic; juros elevados por tempo prolongado devido à pressão inflacionária podem impactar negativamente o valor das cotas.
 
 Observação Importante: As fontes enfatizam que instrumentos financeiros podem não ser adequados para todos os perfis. Os investidores devem obter orientação financeira independente antes de decidir, pois rentabilidades passadas não garantem ganhos futuros e o ambiente político-econômico exige monitoramento constante.
+
+
+4) Miniguia de Estudo: Investimentos e Cenário Fiscal
+1. Resumos Estruturados
+  - O Cenário Macroeconômico (2025-2026): O Brasil apresenta uma dicotomia entre menor vulnerabilidade externa e maior fragilidade fiscal. O aumento de despesas sem oposição política e a dificuldade em reformar políticas públicas criam um "gigantismo" nos gastos. A inflação para 2026 é monitorada com atenção, com projeções recentes sendo ajustadas para 5,1%.
+  - O Setor Agropecuário: O agronegócio é o motor da economia, mas seu financiamento está migrando do crédito oficial para instrumentos privados (LCA, CRA, Fiagro). Esse setor é resiliente, mas vulnerável à instabilidade dos juros provocada pelo quadro fiscal deteriorado.
+  - Gestão de Riscos: Em tempos de incerteza, o foco do investidor deve ser a proteção contra a inflação e a busca por ativos de setores com menor dependência direta do Tesouro, sempre buscando orientação financeira independente.
+
+2. Glossário de Conceitos Chave
+- Fragilidade Fiscal: Situação de desequilíbrio nas contas públicas, onde o aumento de gastos e a dívida crescente geram desconfiança no mercado.
+- Regra de Ouro: Norma constitucional que proíbe o governo de contrair dívidas para pagar despesas correntes, como salários e previdência.
+- Marcação a Mercado: Oscilação diária do preço de um título de renda fixa em função das mudanças nas taxas de juros do mercado.
+- IPCA (Índice Nacional de Preços ao Consumidor Amplo): O principal indicador de inflação no Brasil, usado como indexador para proteger investimentos da perda do poder de compra.
+- Custo-Benefício em Políticas Públicas: Princípio que defende que cada gasto governamental deve ser avaliado pelo seu retorno social e eficiência, prática ainda pouco comum no Brasil.
+
+3. Prompts Reutilizáveis para Revisão
+"Explique como a deterioração do cenário fiscal no Brasil impacta a rentabilidade de títulos de renda fixa prefixados e indexados ao IPCA."
+"Compare os riscos e benefícios do financiamento oficial (Plano Safra) versus instrumentos de mercado (LCA e CRA) para o produtor rural brasileiro."
+"Resuma a análise de Zeina Latif sobre os desafios da governança pública brasileira e sua relação com o gigantismo dos gastos."
+"Quais são as principais projeções de inflação e juros para 2026 segundo os relatórios da XP Investimentos e quais fatores podem alterá-las?"
