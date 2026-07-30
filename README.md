@@ -11,6 +11,7 @@ Economia - Passos para Investimentos Seguros
 - https://portalibre.fgv.br/noticias/zeina-latif-no-brasil-para-criar-despesa-nova-nao-existe-oposicao
 
 3) Engenharia de Prompts e "Cicatrizes":
+   
 3.1 Primeira pergunta: Quais investimentos seguros dentro do atual cenário econômico e político que o Brasil vivência temos nos dias atuais, listando 5 aplicações de médio e longo prazo e seus retornos financeiros e riscos.  
 
 Resposta: O atual cenário econômico e político brasileiro é marcado por uma deterioração do quadro fiscal, o que gera incerteza sobre o comportamento dos juros e da inflação nos próximos anos. De acordo com as análises de Zeina Latif, a ausência de um ajuste fiscal consistente e o aumento dos gastos públicos prejudicam o ambiente de investimentos, dificultando a previsibilidade da taxa de juros. Para 2026, as projeções para o IPCA (inflação) estão em torno de 5,1%.
